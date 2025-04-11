@@ -33,5 +33,5 @@ Welcome to **NutriNosh** – a simple and clean food ordering website that promo
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/im-vaibhav/NutriNosh.git
+   git clone https://github.com/im-vaibhav/NutriNosh-Omnifood
 
